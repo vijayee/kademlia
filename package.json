@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bs58": "^4.0.1",
+    "protocol-buffers": "^4.1.0",
     "xor-distance": "^1.0.0"
   }
 }
